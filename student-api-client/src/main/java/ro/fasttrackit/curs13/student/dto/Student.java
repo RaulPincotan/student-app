@@ -18,6 +18,4 @@ public class Student {
     }
 }
 
-/*
-din cauza problemei cu jackson din cauza ca am pus value care il face imutabiul si atunci punem @JsonDeseruaialize...
- */
+
